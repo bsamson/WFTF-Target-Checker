@@ -16,6 +16,19 @@ The Left and Right hand Cylinder parts may be prone to some curling on the edges
 
 ## Assembly Instructions
 
+### Non-Printed parts required :
+- 4mm Steel Bar 140mm long
+- M3 Nyloc nuts X 8
+- M3 x 30mm Cap Head Bolts X 8
+- Small spring - 10mm x 5mm
+- Main spring 
+  - 12.7mm OD
+  - 1.2mm Wire
+  - Stainless steel
+  - 140mm long
+  - rated at around 4Nm per cm of compression
+
+### Assembly diagrams :
 - [Step 1.pdf](Assembly Instructions/Step 1.PDF)
 - [Step 2.pdf](Assembly Instructions/Step 1.PDF)
 - [Step 3.pdf](Assembly Instructions/Step 1.PDF)
