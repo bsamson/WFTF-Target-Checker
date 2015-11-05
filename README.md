@@ -23,7 +23,7 @@ The Left and Right hand Cylinder parts may be prone to some curling on the edges
 - Small spring - 10mm x 5mm
 - Main spring 
   - 12.7mm OD
-  - 1.2mm Wire
+  - 1.25mm Wire
   - Stainless steel
   - 140mm long
   - rated at around 4Nm per cm of compression
