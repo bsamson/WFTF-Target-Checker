@@ -30,8 +30,8 @@ The Left and Right hand Cylinder parts may be prone to some curling on the edges
 
 ### Assembly diagrams :
 - [Step 1.pdf](Assembly Instructions/Step 1.PDF)
-- [Step 2.pdf](Assembly Instructions/Step 1.PDF)
-- [Step 3.pdf](Assembly Instructions/Step 1.PDF)
-- [Step 4.pdf](Assembly Instructions/Step 1.PDF)
-- [Step 5.pdf](Assembly Instructions/Step 1.PDF)
-- [Step 6.pdf](Assembly Instructions/Step 1.PDF)
+- [Step 2.pdf](Assembly Instructions/Step 2.PDF)
+- [Step 3.pdf](Assembly Instructions/Step 3.PDF)
+- [Step 4.pdf](Assembly Instructions/Step 4.PDF)
+- [Step 5.pdf](Assembly Instructions/Step 5.PDF)
+- [Step 6.pdf](Assembly Instructions/Step 6.PDF)
