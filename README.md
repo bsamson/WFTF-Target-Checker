@@ -27,6 +27,9 @@ The Left and Right hand Cylinder parts may be prone to some curling on the edges
   - Stainless steel
   - 140mm long
   - rated at around 4Nm per cm of compression
+  
+Note:  This is the spring supplier on eBay that I have used to make the official WFTF checkers :
+http://www.ebay.co.uk/itm/12-7mm-OD-13mm-Stainless-Carbon-steel-Compression-spring-up-to-600mm-long-/231995371162?var=&hash=item3604006e9a:m:mkqkKRZ80jLM1G65dUfObjA
 
 ### Assembly diagrams :
 - [Step 1.pdf](Assembly Instructions/Step 1.PDF)
